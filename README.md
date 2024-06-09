@@ -1,6 +1,6 @@
 
  
-<h1> DBNex: Deep Belief Network and Explainable AI based Financial Fraud Detection</h1>
+<h1> Codage: Deep Belief Network and Explainable AI based Financial Fraud Detection</h1>
 
 [Abhimanyu Bhowmik](https://scholar.google.com/citations?user=r3bzJ7oAAAAJ&hl=en), [Madhushree Sannigrahi](https://scholar.google.com/citations?user=Mtnm7igAAAAJ&hl=en), [Deepraj Chowdhury](https://scholar.google.com/citations?user=9sZgeV4AAAAJ&hl=en), [Ashutosh Dhar Dwivedi](https://scholar.google.com/citations?user=EjGUfp0AAAAJ&hl=en), [Raghava Rao Mukkamala](https://scholar.google.com/citations?user=VkhjFd4AAAAJ&hl=en)
 
