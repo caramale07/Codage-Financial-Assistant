@@ -136,24 +136,10 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data_an
 <br><br>
 
 
-<hr />
 
-<h2>Cite our work</h2>
 
-```bibtex
 
-  @INPROCEEDINGS{10020494,
-  author={Bhowmik, Abhimanyu and Sannigrahi, Madhushree and Chowdhury, Deepraj and Dwivedi, Ashutosh Dhar and Rao Mukkamala, Raghava},
-  booktitle={2022 IEEE International Conference on Big Data (Big Data)}, 
-  title={DBNex: Deep Belief Network and Explainable AI based Financial Fraud Detection}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={3033-3042},
-  doi={10.1109/BigData55660.2022.10020494}}
 
-```
-<hr />
 
 <h2>Contact</h2>
 For any queries, please contact: <a href="mailto:bhowmikabhimnayu@gmail.com">bhowmikabhimnayu@gmail.com</a>
