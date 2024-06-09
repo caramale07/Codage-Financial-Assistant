@@ -2,12 +2,6 @@
  
 <h1> Codage: Deep Belief Network and Explainable AI based Financial Fraud Detection</h1>
 
-[Abhimanyu Bhowmik](https://scholar.google.com/citations?user=r3bzJ7oAAAAJ&hl=en), [Madhushree Sannigrahi](https://scholar.google.com/citations?user=Mtnm7igAAAAJ&hl=en), [Deepraj Chowdhury](https://scholar.google.com/citations?user=9sZgeV4AAAAJ&hl=en), [Ashutosh Dhar Dwivedi](https://scholar.google.com/citations?user=EjGUfp0AAAAJ&hl=en), [Raghava Rao Mukkamala](https://scholar.google.com/citations?user=VkhjFd4AAAAJ&hl=en)
-
-[![paper](https://img.shields.io/badge/IEEE-Paper-brightgreen)](https://doi.org/10.1109/BigData55660.2022.10020494) 
-[![dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/competitions/ieee-fraud-detection) 
-[![dataset](https://img.shields.io/badge/Saved-Models-red)](https://github.com/abhimanyubhowmik/DBNex/tree/main/Data_and_Model)
-[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1btUACelHTbZ4aX9lCH3yg1O-jxsZWn4l/edit?usp=sharing&ouid=103859519837437819731&rtpof=true&sd=true) 
 
 
 
