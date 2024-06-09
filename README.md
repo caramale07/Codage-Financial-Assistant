@@ -142,4 +142,4 @@ Sample Dataset from the actual dataset can be found in the the folder `./Data_an
 
 
 <h2>Contact</h2>
-For any queries, please contact: <a href="mailto:bhowmikabhimnayu@gmail.com">bhowmikabhimnayu@gmail.com</a>
+For any queries, please contact: <a href="mailto:bashirovfatulla@gmail.com">bhowmikabhimnayu@gmail.com</a>
